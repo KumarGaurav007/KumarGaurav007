@@ -1,6 +1,6 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)](https://gauravkumar.io)
 <h1 align="center">Hi 👋, I'm Gaurav Kuamr</h1>
-<h3 align="center">A passionate Full Stack & Machine Learning developer from India</h3>
+<h3 align="center">A passionate Full Stack developer & DevOps Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumargaurav007&label=Profile%20views&color=0e75b6&style=flat" alt="kumargaurav007" /> </p>
 
@@ -8,7 +8,7 @@
 <img align="right"  alt="Coding" width="400" src="https://cdn.sanity.io/images/ordgikwe/production/a830c5182852e35bcd0dc07b90122f07ecd15f48-700x525.gif?w=700&h=525&auto=format"/>
 - 🌱 I’m currently learning **Machine Learning , React js**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Full Stack Development & Deployment**
 
 - 📫 How to reach me **gauravkumarsk07@gmail.com**
 
