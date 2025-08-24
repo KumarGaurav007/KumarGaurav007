@@ -27,4 +27,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumargaurav007&" alt="kumargaurav007" /></p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/o3bn42y7gx?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/KumarGaurav07?theme=dark)
